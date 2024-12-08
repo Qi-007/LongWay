@@ -235,7 +235,7 @@ int main() {
 使用终端操作时勤用着  **ls**  查看当前目录，确定删除内容后在 rm -rf * ,享受便捷的同时也要承受粗心带来的后果
 
 ### 死亡回放：
-picture/rm -rf *.png
+![死亡回放](https://github.com/Qi-007/LongWay/blob/main/picture/rm%20-rf%20*.png?raw=true)
 
 
 
