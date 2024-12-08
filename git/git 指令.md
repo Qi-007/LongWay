@@ -37,7 +37,7 @@ git config --global user.email 130@qq.com
 
 5. 登录gitee复制仓库地址
 
-![git](LongWay/picture/git.png)
+![git]([LongWay/picture/git.png](https://github.com/Qi-007/LongWay/blob/main/picture/git.png?raw=true))
 
 6. 和远程仓库建立连接：git remote add orlgin https://gitee.com/****.git
 
