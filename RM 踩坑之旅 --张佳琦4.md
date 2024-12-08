@@ -236,7 +236,7 @@ int main() {
 
 ### 死亡回放：
 
-<img src="/home/zjq/QQ/Screenshot_20241208_090615_com_tencent_mobileqq_C.jpg" alt="Screenshot_20241208_090615_com_tencent_mobileqq_C" style="zoom:25%;" />
+<img src="/home/zjq/A&T/踩坑之旅/picture/rm -rf *.png" alt="rm -rf *" style="zoom: 33%;" />
 
 
 
