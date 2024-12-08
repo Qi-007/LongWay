@@ -37,7 +37,7 @@ git config --global user.email 130@qq.com
 
 5. 登录gitee复制仓库地址
 
-![git](/home/zjq/A&T/踩坑之旅/picture/git.png)
+![git](picture/git.png)
 
 6. 和远程仓库建立连接：git remote add orlgin https://gitee.com/****.git
 
