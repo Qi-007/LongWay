@@ -235,8 +235,7 @@ int main() {
 使用终端操作时勤用着  **ls**  查看当前目录，确定删除内容后在 rm -rf * ,享受便捷的同时也要承受粗心带来的后果
 
 ### 死亡回放：
-
-<img src="/home/zjq/A&T/踩坑之旅/picture/rm -rf *.png" alt="rm -rf *" style="zoom: 33%;" />
+picture/rm -rf *.png
 
 
 
